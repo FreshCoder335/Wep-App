@@ -1,0 +1,46 @@
+/* questionEditorStyles.css */
+
+/* Styles for the question table */
+.question-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+/* Styles for table headings */
+.question-table th {
+    padding: 8px;
+    background-color: #007bff;
+    color: #fff;
+}
+
+/* Styles for table cells */
+.question-table td {
+    padding: 8px;
+    border: 1px solid #ccc;
+}
+
+/* Styles for form elements */
+.form-input {
+    margin-bottom: 10px;
+    padding: 8px;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Styles for buttons in the question editor section */
+.editor-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+/* Hover effect for buttons */
+.editor-button:hover {
+    background-color: #0056b3;
+}

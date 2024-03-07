@@ -1,0 +1,26 @@
+/* QEStyles.css */
+/* Add your custom styles for Question Editor here */
+
+.login-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#questionTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+#questionTable th, #questionTable td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+#questionTable th {
+    background-color: #f2f2f2;
+}

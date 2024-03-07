@@ -1,0 +1,31 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.MenuOptions {
+    background-color: #333;
+    padding: 10px;
+}
+
+.MenuOptions a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.quiz-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#quiz {
+    margin-bottom: 20px;
+}
+
+.hidden {
+    display: none;
+}
