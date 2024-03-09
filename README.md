@@ -19,3 +19,4 @@ HTML
 * [DevDocs](https://devdocs.io/javascript/)
 * [MDN web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [Youtube tutorial](https://www.youtube.com/watch?v=XnJ4K7nm_5A&ab_channel=Simplilearn)
+* [ChatGPT](https://chat.openai.com/)
