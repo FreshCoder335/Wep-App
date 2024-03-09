@@ -20,4 +20,5 @@ HTML
 * [MDN web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [Youtube tutorial](https://www.youtube.com/watch?v=XnJ4K7nm_5A&ab_channel=Simplilearn)
 * [ChatGPT](https://chat.openai.com/)
-* [StackOverflow](https://stackoverflow.com/questions/14964035/how-to-export-javascript-array-info-to-csv-on-client-side)Specific data found for amazing aspect I found out. 
+* [StackOverflow](https://stackoverflow.com/questions/14964035/how-to-export-javascript-array-info-to-csv-on-client-side)
+    Specific data found for amazing feature I found out. 
