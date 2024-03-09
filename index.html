@@ -1,40 +1,42 @@
-Index.html
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Title of the page -->
     <title>Quiz App</title>
+    <!-- Link to external CSS files -->
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="QUStyles.css">
     <link rel="stylesheet" href="quizReportStyles.css">
     <link rel="stylesheet" href="loginStyles.css">
     <link rel="stylesheet" href="QuizReport.css">
     <link rel="stylesheet" href="questionEditorStyles.css">
-
 </head>
 
 <body>
+    <!-- Navigation menu -->
     <div class="MenuOptions">
         <a href="index.html">Quiz</a>
         <a href="QuestionsEditor.html">Quiz Editor</a>
         <a href="QuizReport.html">Quiz Result</a>
     </div>
+    <!-- Container for the quiz -->
     <div class="quiz-container">
+        <!-- Div element to display quiz questions -->
         <div id="quiz">
-            <!-- Questions and options go here -->
         </div>
+        <!-- Div element to display quiz results -->
         <div id="result" class="hidden">
-            <!-- Result page content goes here -->
         </div>
     </div>
 
+    <!-- Link to external JavaScript files -->
     <script src="Questions.js"></script>
     <script src="QuizReport.js"></script>
     <script src="Quiz.js"></script>
     <script>
-        // JavaScript code for the start of the quiz goes here
         // Display input fields for username and roll number before the quiz starts
         document.getElementById('quiz').innerHTML = `
             <form id="startForm">
